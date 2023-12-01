@@ -1,2 +1,2 @@
 # Projects-courses-selling-website
-UI of website using HTML/CSS.
+frontend of website using HTML/CSS.
